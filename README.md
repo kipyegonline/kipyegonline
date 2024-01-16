@@ -11,7 +11,8 @@
 |     2|   PHP/MYSQL          |
 |     3|   React js library  |
 |    4 | Svelte Js           |
-|     5| AWS certified Practitioner |
+|     5|  Laravel Framwork|
+|     6| AWS certified Practitioner |
 
 
 <!--
